@@ -9,4 +9,5 @@ It takes care of calculating the number of columns/rows and the spacing needed b
 Download "Spread.py", then go to Blender's file menu > user preferences > addons > install
 Select the file you have downloaded, install and enable it
 
-To use it, simply select the objects, open the search menu (by pressing F3 or Space, depending on your settings) and search for "spread objects" and select it.
+# How to use 
+From the Object menu select "Spread Objects" or "Spread Objects (keyframed)". The first only spreads the objects, and the latter adds initial position and final position keyframes for animation
